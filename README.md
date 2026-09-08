@@ -23,7 +23,7 @@ D=np.linalg.inv(R)
 print(D)
 ```
 ## Output:
-<img width="1004" height="631" alt="image" src="https://github.com/user-attachments/assets/1737e8b9-2000-4abc-973f-2ec7945149a6" />
+<img width="1227" height="215" alt="image" src="https://github.com/user-attachments/assets/9bbb9448-70cf-402f-b1e3-52ea371245d8" />
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
